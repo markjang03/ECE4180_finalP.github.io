@@ -9,11 +9,11 @@ GaTech ECE 4180 final project
 
 # Table of Contents
 - [Overview](https://github.com/markjang03/ECE4180_finalP.github.io/blob/main/README.md#overview)
-- [Digrams](https://github.com/markjang03/ECE_finalP/README.md "Authors")
+- [Digrams](https://github.com/markjang03/ECE4180_finalP.github.io/blob/main/README.md#overview)
 
-- [Parts List](https://github.com/markjang/ECE_finalP/readme.md "Authors")
-- [Instructions](https://github.com/markjang03/ECE_finalP/readme.md "Authors")
-- [Demo Video](https://github.com/markjang/ECE_finalP/readme.md "Authors")
+- [Parts List](https://github.com/markjang03/ECE4180_finalP.github.io/blob/main/README.md#overview)
+- [Instructions](https://github.com/markjang03/ECE4180_finalP.github.io/blob/main/README.md#overview)
+- [Demo Video](https://github.com/markjang03/ECE4180_finalP.github.io/blob/main/README.md#overview)
 
 
 # Overview
