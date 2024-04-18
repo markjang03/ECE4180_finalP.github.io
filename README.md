@@ -8,11 +8,11 @@ GaTech ECE 4180 final project
 - Shriyanshu Kode
 
 # Table of Contents
-- Overview
-- Commands Diagram
+- [Overview](https://github.com/markjang/ECE4180_finalP/readme.md "Authors")
+- [Overview](https://github.com/markjang/ECE_finalP/readme.md "Authors")
   - stateDiagram
-- Running the Code
-- Parts List
-- Running the Code
-- Demo Video
-[Overview](https://github.com/markjang/ECE_finalP/readme.md "Authors")
+- [Parts List](https://github.com/markjang/ECE_finalP/readme.md "Authors")
+- [Overview](https://github.com/markjang/ECE_finalP/readme.md "Authors")
+- [Overview](https://github.com/markjang/ECE_finalP/readme.md "Authors")
+- [Demo Video](https://github.com/markjang/ECE_finalP/readme.md "Authors")
+
