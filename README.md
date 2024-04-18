@@ -1,8 +1,8 @@
-# ECE4180_finalP.github.io
+# Security Camera System
 
-Team members: \n
-Nidhish Shanmugasundaram -  Section A
-Mark Jang - Section A
-Nihit Agarwal - Section A
-Shriyanshu Kode - Section A
+Team members:
+- Nidhish Shanmugasundaram -  Section A
+- Mark Jang - Section A
+- Nihit Agarwal - Section A
+- Shriyanshu Kode - Section A
 
