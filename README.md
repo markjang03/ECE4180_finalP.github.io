@@ -1,3 +1,8 @@
 # ECE4180_finalP.github.io
 
-Team members: Mark Jang, Nidihsh
+Team members: 
+Nidhish Shanmugasundaram -  Section A
+Mark Jang - Section A
+Nihit Agarwal - Section A
+Shriyanshu Kode - Section A
+
